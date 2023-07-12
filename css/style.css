@@ -213,8 +213,10 @@ section{
     color: #000;
 }
 
-.contact .info p {
+.contact .info a {
     font-size: 1.5em;
+    text-decoration: none;
+    color: #000;
 }
 
 .footer{
